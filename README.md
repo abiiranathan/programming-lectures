@@ -24,6 +24,8 @@ To install the required packages, run the following command:
 pip install -r requirements.txt
 ```
 
+> Note that the requirements files has very many packages that are not needed for the lectures yet, but they are there for future use. You may need about 1GB of space to install all the packages. The process will take some time to complete.
+
 ## Running the Lectures
 To run the lectures, run the following command in your terminal:
 
@@ -34,7 +36,6 @@ jupyter notebook
 This will open a new tab in your browser where you can navigate to the lectures and run them.
 A better approach is use [Vscode](https://code.visualstudio.com/) and install the [Jupyter extension](https://marketplace.visualstudio.com/items?itemName=ms-toolsai.jupyter) to run the lectures inside Vscode.
 
-You may note some html files in the repository. These are the exported versions of the notebooks and can be viewed in a browser.
 
 ## Instructor
 The instructor for the lectures is `Dr. Abiira Nathan`. You can reach him via email at
