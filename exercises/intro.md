@@ -12,3 +12,6 @@ Welcome to the exercises for the Introduction to Python course. These exercises 
 4. Complete the exercises in the `exercises.md` file.
 5. Check your answers in the `answers.md` file.
 6. If you get stuck, refer back to the course material or ask for help by emailing your instructor.
+
+> Advanced exercises are also available in the `advanced_exercises.md` file. Feel free to attempt these exercises once you have completed the basic exercises. We do not require you to complete the advanced exercises for this course but encourage you to do so to enhance your Python skills. There are no answers provided for the advanced exercises, so you can discuss your solutions with your instructor or peers.
+
